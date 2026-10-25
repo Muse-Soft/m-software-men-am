@@ -1,17 +1,23 @@
-# Men Ấm — Tiệm bánh thủ công
+# Men Ấm
 
-Landing page visual-first cho tiệm bánh thủ công Men Ấm (bánh mì men chua + bánh ngọt kiểu Pháp), theo DESIGN.md (TEC-177).
+Trang giới thiệu (landing page) **tĩnh** — men Ấm — tiệm bánh thủ công: bánh mì men chua và bánh ngọt kiểu Pháp, nướng mỗi ngày. Trang được dựng bằng HTML, CSS và JavaScript thuần, không cần bước biên dịch.
 
-## Xem trang
+> Mọi tên, số điện thoại, địa chỉ và số liệu trên trang đều là **dữ liệu mẫu**. Giá hiển thị là **giá mẫu**. Biểu mẫu (nếu có) chỉ là giao diện minh họa: không gửi dữ liệu đi đâu và không có backend.
 
-Mở `index.html` bằng trình duyệt (trang tĩnh, không cần build).
+**Demo trực tuyến:** https://m-software-men-am.genalpha.dev
+**Giấy phép:** [MIT](LICENSE) © M-Software
 
-## Nội dung
+## Cách xem
 
-- Hero toàn màn hình, câu chuyện lò bánh, thực đơn 3 nhóm, khối "Ra lò hôm nay", quy trình ủ men 4 bước, cảm nhận khách hàng, form đặt bánh trước.
-- Form đặt bánh CHỈ chạy phía giao diện (bản demo — không gửi đơn thật).
-- Địa chỉ, số điện thoại, giờ mở cửa, giá thật và giờ ra lò thật đều là `[CẦN BỔ SUNG]` cho đến khi có dữ liệu thật. Giá và cảm nhận hiển thị trên trang đều ghi rõ là "mẫu" minh họa, không phải dữ liệu thật.
+Mở `index.html` bằng trình duyệt (nhấp đúp, không cần máy chủ), hoặc mở liên kết demo ở trên. Giữ nguyên các tệp cùng thư mục vì liên kết là tương đối.
 
-## Ảnh mẫu
+| Tệp | Nội dung |
+|---|---|
+| `README.md` | Tài liệu giới thiệu này |
+| `index.html` | Trang chính |
 
-Ảnh trên trang là ảnh mẫu từ Unsplash (chưa phải ảnh thật của tiệm), đồng tông ấm vàng theo DESIGN.md §4. Nguồn ảnh: images.unsplash.com (các ảnh bánh mì, croissant, bánh ngọt dùng trong `index.html`).
+## English
+
+A **static** landing page for Men Ấm, built with plain HTML, CSS and JavaScript. All names, contact details and figures shown are sample data, displayed prices are sample prices, and any form is interface-only — nothing is submitted and there is no backend. Open `index.html` in a browser. Licensed under MIT.
+
+Contact: contact@genalpha.dev
